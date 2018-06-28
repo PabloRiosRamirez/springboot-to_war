@@ -9,9 +9,7 @@
     <packaging>war</packaging>
 
     <name>Spring Boot - to .war</name>
-    <description> Aplicación con la configuración inicial para pa empaquetar el proyecto en .war
-    
-    </description>
+    <description>Aplicación con la configuración inicial para empaquetar el proyecto en .war</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
